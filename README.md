@@ -1,37 +1,5 @@
 
-# Spatio-Temporal Dynamic Inference Network for Group Activity Recognition
-
-The source codes for ICCV2021 Paper: 
-Spatio-Temporal Dynamic Inference Network for Group Activity Recognition.  
-[[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.pdf)
-[[supplemental material]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Yuan_Spatio-Temporal_Dynamic_Inference_ICCV_2021_supplemental.pdf)
-[[arXiv]](http://arxiv.org/abs/2108.11743)
-
-[![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark?style=social)](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark)
-[![GitHub Forks](https://img.shields.io/github/forks/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark)](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JacobYuan7/DIN-Group-Activity-Recognition-Benchmark)
-
-If you find our work or the codebase inspiring and useful to your research, please cite
-```bibtex
-@inproceedings{yuan2021DIN,
-  title={Spatio-Temporal Dynamic Inference Network for Group Activity Recognition},
-  author={Yuan, Hangjie and Ni, Dong and Wang, Mang},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={7476--7485},
-  year={2021}
-}
-@inproceedings{yuan2021visualcontext,
-  title={Learning Visual Context for Group Activity Recognition},
-  author={Yuan, Hangjie and Ni, Dong},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={4},
-  pages={3261--3269},
-  year={2021}
-}
-```
-        
-
+# Group Activity Recognition via Spatio-Temporal Reasoning of Key Instances
 
 ## Dependencies
 
