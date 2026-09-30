@@ -1,0 +1,19 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+*.xml
+
+.vscode
+result/
+runs/
+plot_demo/
+*.ttf
+tags
+__pycache__/
+*.swp
+*.out
